@@ -26,7 +26,7 @@ Para reproduzir os resultados e executar o projeto, siga as instruções abaixo:
 
         git clone https://github.com/guioliveiras/indicium-precificacao-veiculos.git
 
-2. Certifique-se de ter as seguintes bibliotecas instaladas em seu ambiente Python:
+2. Certifique-se de ter as bibliotecas instaladas em seu ambiente Python:
 
         pip install -r requirements.txt
 

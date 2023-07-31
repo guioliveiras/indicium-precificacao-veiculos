@@ -24,7 +24,7 @@ Para reproduzir os resultados e executar o projeto, siga as instruções abaixo:
 
 1. Clone este repositório para o seu ambiente local:
 
-        git clone https://github.com/guioliveiras/Lighthouse-Indicium
+        git clone https://github.com/guioliveiras/indicium-precificacao-veiculos.git
 
 2. Certifique-se de ter as seguintes bibliotecas instaladas em seu ambiente Python:
 

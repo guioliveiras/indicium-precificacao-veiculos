@@ -44,7 +44,7 @@ O resultado final do modelo, contendo as previsões de preços para os dados de 
 
 ## Contribuição
 
-Este projeto foi desenvolvido por Guilherme Oliveira. Se você deseja contribuir, sinta-se à vontade para enviar pull requests com melhorias ou correções.
+Este projeto foi desenvolvido por [Guilherme Oliveira](https://github.com/guioliveiras). Se você deseja contribuir, sinta-se à vontade para enviar pull requests com melhorias ou correções.
 
 ## Agradecimentos
 

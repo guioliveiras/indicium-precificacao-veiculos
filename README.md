@@ -6,7 +6,7 @@ O objetivo do projeto é analisar os dados fornecidos e criar um modelo preditiv
 
 ## Descrição dos Datasets
 
-### O projeto inclui dois datasets:
+### O projeto inclui dois datasets
 
 **cars_training**: Este dataset é composto por 29584 linhas e 28 colunas de informações (features). Cada linha representa um veículo usado e a coluna "preco" é a variável a ser prevista.
 
@@ -17,7 +17,6 @@ O objetivo do projeto é analisar os dados fornecidos e criar um modelo preditiv
 O repositório está organizado da seguinte forma:
 
 **datasets/**: Nesta pasta estão os arquivos CSV com os dados de treinamento (cars_training.csv) e teste (cars_test.csv).
-
 
 ## Configuração do Ambiente
 
@@ -49,4 +48,4 @@ Este projeto foi desenvolvido por Guilherme Oliveira. Se você deseja contribuir
 
 ## Agradecimentos
 
-Agradeço aa Indicium pela oportunidade de trabalhar neste projeto e a toda a equipe envolvida.
+Agradeço a Indicium pela oportunidade de trabalhar neste projeto e a toda a equipe envolvida.
